@@ -1,0 +1,8 @@
+1;Combustível;Despesas com abastecimento do veículo;.\src\img\tipoGastos\combustivel-48.png
+2;Seguro;Pagamento do seguro do veículo para proteção contra acidentes e danos;.\src\img\tipoGastos\seguro-40.png
+3;Peças e Acessórios;Compra de peças de reposição ou acessórios para o veículo;.\src\img\tipoGastos\manutencao-50.png
+4;Manutenção;Manutenções no veiculo;.\src\img\tipoGastos\manutencao-48.png
+5;Estacionamento;Taxas de estacionamento em locais públicos ou privados;.\src\img\tipoGastos\estacionamento-48.png
+6;Pedágio;Pagamento de tarifas em rodovias pedagiadas;.\src\img\tipoGastos\pedagio.png
+7;Lavagem;Gastos com a limpeza e lavagem do veículo;.\src\img\tipoGastos\\limpeza-48.png
+8;Documentação;Despesas relacionadas à renovação de documentos, como licenciamento e IPVA;.\src\img\tipoGastos\imposto-ipva-100.png

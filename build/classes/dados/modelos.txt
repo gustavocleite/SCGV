@@ -1,0 +1,9 @@
+1;Gol G5;Volkswagen;HATCHBACK;.\src\img\modeloVeiculo\1.jpg;20
+2;Fusion;Ford;SEDAN;.\src\img\modeloVeiculo\2.jpg;7
+3;Pegout 208;Peugeot;HATCHBACK;.\src\img\modeloVeiculo\3.jpg;16
+4;Audi A3;Audi;HATCHBACK;.\src\img\modeloVeiculo\4.jpg;1
+5;Corolla;Toyota;SEDAN;.\src\img\modeloVeiculo\5.jpg;19
+6;Corsa;Chevrolet;SEDAN;.\src\img\modeloVeiculo\6.jpg;21
+7;HB20S;Hyundai;SEDAN;.\src\img\modeloVeiculo\7.jpg;9
+8;Evoque;Land Rover;SUV;.\src\img\modeloVeiculo\8.jpg;17
+9;KA;Ford;HATCHBACK;.\src\img\modeloVeiculo\9.jpg;7

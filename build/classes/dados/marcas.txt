@@ -1,0 +1,21 @@
+1;Audi;.\src\img\logo\1.jpg
+2;BMW;.\src\img\logo\2.jpg
+3;Chery;.\src\img\logo\3.jpg
+4;Citroen;.\src\img\logo\4.jpg
+5;Dodge;.\src\img\logo\5.jpg
+6;Fiat;.\src\img\logo\6.jpg
+7;Ford;.\src\img\logo\7.jpg
+8;Honda;.\src\img\logo\8.jpg
+9;Hyundai;.\src\img\logo\9.jpg
+10;Jac Motors;.\src\img\logo\10.jpg
+11;Kia;.\src\img\logo\11.jpg
+12;Lifan;.\src\img\logo\12.jpg
+13;Mercedes;.\src\img\logo\13.jpg
+14;Mitsubishi;.\src\img\logo\14.jpg
+15;Nissan;.\src\img\logo\15.jpg
+16;Peugeot;.\src\img\logo\16.jpg
+17;Land Rover;.\src\img\logo\17.jpg
+18;Renault;.\src\img\logo\18.jpg
+19;Toyota;.\src\img\logo\19.jpg
+20;Volkswagen;.\src\img\logo\20.jpg
+21;Chevrolet;.\src\img\logo\21.jpg
